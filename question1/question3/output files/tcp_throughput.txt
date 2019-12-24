@@ -1,0 +1,108 @@
+Timestamp : Fri Nov  8 20:59:27 2019
+---------------------------------
+Flow 0 (10.1.1.1:49153 -> 10.1.1.2:8080)
+ Tx Bytes: 144252
+ Rx Bytes: 141376
+ Throughput: 1.08521 Mbps 
+Timestamp : Fri Nov  8 20:59:27 2019
+---------------------------------
+Flow 1 (10.1.1.2:8080 -> 10.1.1.1:49153)
+ Tx Bytes: 7104
+ Rx Bytes: 7104
+ Throughput: 0.0545313 Mbps 
+Timestamp : Fri Nov  8 20:59:27 2019
+---------------------------------
+Flow 0 (10.1.1.1:49153 -> 10.1.1.2:8080)
+ Tx Bytes: 286140
+ Rx Bytes: 282120
+ Throughput: 1.07634 Mbps 
+Timestamp : Fri Nov  8 20:59:27 2019
+---------------------------------
+Flow 1 (10.1.1.2:8080 -> 10.1.1.1:49153)
+ Tx Bytes: 13876
+ Rx Bytes: 13876
+ Throughput: 0.053137 Mbps 
+Timestamp : Fri Nov  8 20:59:27 2019
+---------------------------------
+Flow 0 (10.1.1.1:49153 -> 10.1.1.2:8080)
+ Tx Bytes: 423420
+ Rx Bytes: 419956
+ Throughput: 1.06835 Mbps 
+Timestamp : Fri Nov  8 20:59:27 2019
+---------------------------------
+Flow 1 (10.1.1.2:8080 -> 10.1.1.1:49153)
+ Tx Bytes: 20168
+ Rx Bytes: 20116
+ Throughput: 0.0513165 Mbps 
+Timestamp : Fri Nov  8 20:59:27 2019
+---------------------------------
+Flow 0 (10.1.1.1:49153 -> 10.1.1.2:8080)
+ Tx Bytes: 560700
+ Rx Bytes: 557236
+ Throughput: 1.06352 Mbps 
+Timestamp : Fri Nov  8 20:59:27 2019
+---------------------------------
+Flow 1 (10.1.1.2:8080 -> 10.1.1.1:49153)
+ Tx Bytes: 26408
+ Rx Bytes: 26408
+ Throughput: 0.0504016 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 0 (10.1.1.1:49153 -> 10.1.1.2:8080)
+ Tx Bytes: 700236
+ Rx Bytes: 696216
+ Throughput: 1.06323 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 1 (10.1.1.2:8080 -> 10.1.1.1:49153)
+ Tx Bytes: 32940
+ Rx Bytes: 32940
+ Throughput: 0.0503044 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 0 (10.1.1.1:49153 -> 10.1.1.2:8080)
+ Tx Bytes: 840392
+ Rx Bytes: 834640
+ Throughput: 1.06232 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 1 (10.1.1.2:8080 -> 10.1.1.1:49153)
+ Tx Bytes: 39412
+ Rx Bytes: 39412
+ Throughput: 0.0501632 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 0 (10.1.1.1:49153 -> 10.1.1.2:8080)
+ Tx Bytes: 979928
+ Rx Bytes: 973064
+ Throughput: 1.06167 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 1 (10.1.1.2:8080 -> 10.1.1.1:49153)
+ Tx Bytes: 45840
+ Rx Bytes: 45840
+ Throughput: 0.0500207 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 0 (10.1.1.1:49153 -> 10.1.1.2:8080)
+ Tx Bytes: 1119464
+ Rx Bytes: 1113188
+ Throughput: 1.0617 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 1 (10.1.1.2:8080 -> 10.1.1.1:49153)
+ Tx Bytes: 52476
+ Rx Bytes: 52424
+ Throughput: 0.0500515 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 0 (10.1.1.1:49153 -> 10.1.1.2:8080)
+ Tx Bytes: 1162936
+ Rx Bytes: 1156660
+ Throughput: 1.06122 Mbps 
+Timestamp : Fri Nov  8 20:59:28 2019
+---------------------------------
+Flow 1 (10.1.1.2:8080 -> 10.1.1.1:49153)
+ Tx Bytes: 54452
+ Rx Bytes: 54452
+ Throughput: 0.0499592 Mbps 
